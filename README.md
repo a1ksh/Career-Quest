@@ -8,7 +8,11 @@
 
 **Career Quest — навигатор развития сотрудников.**
 
-Команда **Moisey**, HackAlem AI, трек Halyk Bank, кейс № 1. Репозиторий команды: [BAITC-Hacks/hack-ae82671f-moisey](https://github.com/BAITC-Hacks/hack-ae82671f-moisey).
+## Команда **Moisey**, HackAlem AI, трек Halyk Bank
+
+- [albina0dali](https://github.com/albina0dali)
+- [ballnurry](https://github.com/ballnurry)
+- [a1ksh](https://github.com/a1ksh)
 
 ## 2. Краткое описание
 
