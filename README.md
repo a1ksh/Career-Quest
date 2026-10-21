@@ -10,9 +10,11 @@
 
 ## Команда **Moisey**, HackAlem AI, трек Halyk Bank
 
-- [albina0dali](https://github.com/albina0dali)
-- [ballnurry](https://github.com/ballnurry)
-- [a1ksh](https://github.com/a1ksh)
+| Name | Role | Socials |
+|------|------|---------|
+| Albina Gibadullina | Project Manager & Team Lead | [🔗 GitHub](https://github.com/albina0dali) |
+| Karlygash Aibolatkyzy | ML Engineer & Backend Developer | [🔗 GitHub](https://github.com/a1ksh) |
+| ballnurry | Frontend Developer | [🔗 GitHub](https://github.com/ballnurry) |
 
 ## 2. Краткое описание
 
